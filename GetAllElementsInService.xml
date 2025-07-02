@@ -20,6 +20,8 @@
 		<Exe id="1" type="csharp">
 			<Value><![CDATA[[Project:GetAllElementsInService_1]]]></Value>
 			<!--<Param type="debug">true</Param>-->
+			<Param type="preCompile">true</Param>
+			<Param type="libraryName">GetAllElementsInService</Param>
 			<Message></Message>
 		</Exe>
 	</Script>

@@ -65,7 +65,7 @@ namespace GetAllElementsInService_1
     /// It provides methods for retrieving columns, getting the next page of data, initializing the data source,
     /// retrieving input arguments, and processing provided arguments.
     /// </remarks>
-    [GQIMetaData(Name = "Get All Elements in service")]
+    [GQIMetaData(Name = "GetAllElementsInService")]
     public class MyDataSource : IGQIDataSource, IGQIOnInit, IGQIInputArguments
     {
         /// <summary>
